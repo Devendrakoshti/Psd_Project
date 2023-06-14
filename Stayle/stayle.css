@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.icon_image{
+    height: 100px;
+    width: 100px;
+    background: url(../image/icon/download-removebg-preview.png);
+   background-color: #a7d7c5; 
+}
